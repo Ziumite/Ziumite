@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ziumite
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning how to use GitHub
 - 🌱 I’m currently learning HTML, C
 - 💞️ I’m looking to collaborate on Open Source projects
 
