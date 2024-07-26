@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ziumite
 - 👀 I’m interested in learning how to use GitHub
 - 🌱 I’m currently learning HTML, C, Arduino
-- 💞️ I’m looking to collaborate on Open Source projects
+- I’m looking to collaborate on Open Source projects
 
 <!---
 Ziumite/Ziumite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
